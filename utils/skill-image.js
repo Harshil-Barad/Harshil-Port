@@ -1,4 +1,4 @@
-import * as adobeXd from '/public/svg/skills/adobe-xd.svg';
+  import * as adobeXd from '/public/svg/skills/adobe-xd.svg';
 import adobeaudition from '/public/svg/skills/adobeaudition.svg';
 import afterEffects from '/public/svg/skills/after-effects.svg';
 import angular from '/public/svg/skills/angular.svg';
