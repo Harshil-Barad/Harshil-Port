@@ -86,7 +86,7 @@ import wordpress from '/public/svg/skills/wordpress.svg';
       return docker;
     case 'illustrator':
       return illustrator;
-    case 'adobe xd':
+    case 'adobe xd': 
       return adobeXd;
     case 'after effects':
       return afterEffects;
