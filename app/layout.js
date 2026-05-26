@@ -10,7 +10,7 @@ import "./css/card.scss";
 import "./css/globals.scss";
 import ScrollToTop from "./components/helper/scroll-to-top";
 import Head from "next/head"; // Import Head from next/head
-
+ 
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
