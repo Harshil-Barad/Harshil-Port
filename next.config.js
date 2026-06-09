@@ -4,7 +4,7 @@ module.exports = {
   sassOptions: {
     includePaths: [path.join(__dirname, "styles")],
   },
-  images: {
+  images: { 
     remotePatterns: [
       {
         protocol: "https",
